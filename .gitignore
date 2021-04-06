@@ -1,0 +1,10 @@
+.vscode
+bin
+data
+node_modules
+public
+views
+.env
+app.js
+package-lock.json
+package.json
